@@ -10,3 +10,4 @@ Ejercicios del lbro Python Phrasebook - Essential code and commads de Brad Dayle
    * Objetos
    * Modulos
    * Clases
+   * Funciones
